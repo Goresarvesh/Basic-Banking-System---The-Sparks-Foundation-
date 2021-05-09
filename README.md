@@ -28,7 +28,7 @@ between multiple users.
 other free hosting provider. Check in code in gitlab.
 
 
-Technology Used:
+* Technology Used:
 
 Front-End: HTML/CSS​/Bootstrap
 
