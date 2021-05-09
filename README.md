@@ -29,8 +29,11 @@ other free hosting provider. Check in code in gitlab.
 
 
 Technology Used:
+
 Front-End: HTML/CSS​/Bootstrap
+
 Back-End: PHP​ /JavaScript​
+
 Database : MySQL
 
 
